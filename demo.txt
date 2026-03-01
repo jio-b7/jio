@@ -1,1 +1,2 @@
-iam from devops and aws
+iam from devops and azure
+
